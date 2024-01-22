@@ -1,4 +1,4 @@
-# Portfolio
+# pranayrp-portfolio
 This is Pranay Raj and this is my public portfolio for Telling Stories with Data at CMU
 
 # About me
@@ -7,5 +7,5 @@ Currently enrolled in the Master of Entertainment Industry Management program at
 # What I hope to learn
 I have always struggled with data visualizations. While communicating data, I find words much easier to use than graphs and charts. However, I am well aware that images are more effective and easily understandable. I therefore hope to get better at visualizing and communicating data through visual means.
 
-# Work
+# Portfolio
 You can find all my work below!
