@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 This is Pranay Raj and this is my public portfolio for Telling Stories with Data at CMU
 
 # About me
