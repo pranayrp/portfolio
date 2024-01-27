@@ -9,4 +9,6 @@ I have always struggled with data visualizations. While communicating data, I fi
 
 # Portfolio
 You can find all my work below!
-https://data.oecd.org/chart/7kiJ
+
+<iframe src="https://data.oecd.org/chart/7kiJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kiJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
