@@ -12,3 +12,6 @@ You can find all my work below!
 
 <iframe src="https://data.oecd.org/chart/7kiJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kiJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
+<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/pranayraj98/views/GovtDebtRatioTable2/Govt_DebtRatioTable' width='1280' height='546' hide-tabs toolbar='bottom' ></tableau-viz>
+
+
