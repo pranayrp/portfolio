@@ -14,4 +14,4 @@ You can find all my work below!
 
 <script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/pranayraj98/views/GovtDebtRatioTable2/Govt_DebtRatioTable' width='1280' height='546' hide-tabs toolbar='bottom' ></tableau-viz>
 
-<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/pranayraj98/views/GovtDebtRatio-BarChart_17064127690330/Govt_DebtRatioTable' width='1280' height='546' hide-tabs toolbar='bottom' ></tableau-viz>
+<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/pranayraj98/views/GovtDebtRatio-BarChart2/Govt_DebtRatio-Boxplot' width='1280' height='546' hide-tabs toolbar='bottom' ></tableau-viz>
