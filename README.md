@@ -10,6 +10,8 @@ I have always struggled with data visualizations. While communicating data, I fi
 # Portfolio
 You can find all my work below!
 
+[Telling Stories with Data Homework 2](/datavisualization.md)
+
 <iframe src="https://data.oecd.org/chart/7kqK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kqK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2007</a></iframe>
 
 
