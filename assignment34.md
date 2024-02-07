@@ -111,10 +111,26 @@ Tableau was hindering me from viewing the player’s data in the dashboard. Afte
 
 I therefore began working on the finalized idea - bar graphs for Total Earnings, On the Field earnings and Off the field earnings. As displayed below, I made the bar graphs for each. I worked on improving their labels to ensure they were more readable.
 
+![OntheF](https://github.com/pranayrp/portfolio/assets/157341264/c54e402c-a407-4dcb-a116-a1a694e10ee7)
+
+<img width="668" alt="OfftheF" src="https://github.com/pranayrp/portfolio/assets/157341264/21e9c12a-1304-4dd2-9a85-3063248e4e07">
+
 
 As I finished labeling and creating my bar graphs, I realized my colors play an important role in sending my message out. I therefore took more than an hour figuring which colors would be appropriate for On-the-Field and Off-the-field, such that the reader is more focused and inspired by On-the-Field earnings. Even in the Total Earnings chart, I strategically placed ‘On-the-Field’ earnings towards the increasing end for those reasons. I also realized it’s not possible to ignore the humongous contribution of Off-the-Field earnings. I therefore decided instead of completely dismissing ‘Off-the-field’ earnings, I should tell this story: 
 
 If you (reader) become a good athlete, aside from the huge monetary benefits of being On-the-field, you will also receive huge monetary benefits Off-the-field. However, do note that the highest earnings made by a player were made On-the-field and not Off-the-field. So, focus on how you perform on the field.
+
+<div class='tableauPlaceholder' id='viz1707272917495' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fo&#47;ForbesList_17072728898410&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ForbesList_17072728898410&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fo&#47;ForbesList_17072728898410&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+ var divElement = document.getElementById('viz1707272917495');
+ var vizElement = divElement.getElementsByTagName('object')[0];
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
+ else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
+ else { vizElement.style.width='100%';vizElement.style.height='977px';}
+ var scriptElement = document.createElement('script');
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
  
 
 
