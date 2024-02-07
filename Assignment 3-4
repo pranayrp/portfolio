@@ -1,6 +1,6 @@
 PRANAY RAJ_ASSIGNMENT 3-4
 
-Step one: Choose a data visualization from MakeoverMonday
+# Step One: Choose a data visualization from MakeoverMonday
 I chose the following data visualization from MakeoverMonday
 https://www.forbes.com/lists/athletes/?sh=19ed0755b7eb
 
@@ -10,7 +10,7 @@ and considering how poorly the story was constructed and communicated by Forbes,
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step two: Critique the data visualization
+# Step Two: Critique the data visualization
 Having viewed the above data visualization, as suggested, I used Stephen Few's critique method (Data Visualization Effectiveness Profile) to critique it.
 
 Usefulness
@@ -63,7 +63,7 @@ This method of evaluating data was extremely helpful. I prefer Stephen Few’s m
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step three: sketch out a solution
+# Step three: sketch out a solution
 Having critiqued it, I decided to begin to think of ways to redesign this visualization. The images below displays the trial and errors I made along the way before arriving at what I believe was the solution.
 
 
@@ -80,7 +80,7 @@ In the fifth graph, the earnings are on the y-axis. The names of players are on 
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step four: Test the solution
+# Step four: Test the solution
 Having believed I have arrived at the right redesign for the Forbes list, I decided it’s best I get some feedback from some of my peers too to understand what they think of my solution and if there’s more I should do. I asked two students at Carnegie Mellon University, one in her 20s and the other in her 30s.
 
 Student (in her early 20s) Feedback Session
@@ -100,7 +100,7 @@ What new inspiration arose?: I realized by adding two more graphs for on-the-fie
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step five: Build your solution
+# Step five: Build your solution
 I began working on Tableau. When I first started, I decided I should attempt to draw my 2nd graph to see if it would be equally informative as the one I decided on and if it would satisfy all the feedback given.
 
 
