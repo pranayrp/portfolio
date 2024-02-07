@@ -13,6 +13,8 @@ As someone studying about the entertainment and sports business, I am constantly
 
 Having viewed the above data visualization, as suggested, I used Stephen Few's critique method (Data Visualization Effectiveness Profile) to critique it.
 
+Google Spreadsheet Responses
+
 Usefulness<br>
 Rating: 2/10<br>
 I personally didn’t find the data that useful. I would have found it more useful had the story and visualization been about the richness and money one gets if they work hard enough in their field of sports. The table and the article should have focused particularly on the ‘On-the-Field’ earnings of athletes, numbers that are directly proportional to the hardwork and journey of the athletes. However, that isn’t the story communicated. I am informed about Off-the-Field earnings too. Information that speaks more about the popularity of the sport than about the individual athletes hard work. As a result, an athlete’s total earnings becomes less effective to me even if it’s a big number.
@@ -40,8 +42,6 @@ No thought was putting into visualizing data. The visualization is basic. More t
 Engagement<br>
 Rating: 1/10<br>
 I didn’t find the table engaging at all. I realized it’s just rows of data put together, and while I read the first few rows, I found myself just quickly scrolling through. They should have atleast bolded certain text, had a different font for different sports or given colors to different sports. They were many ways they could have retained engagement but they do not. They chose the simplest route possible - a route that so many are so familiar with that the data just does not stand out or isn’t paid enough attention to.
-
-Google Spreadsheet Responses
 
 Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently? <br>
 In terms of the story of the data and the article, the focus is not on the ‘on-the-field’ earnings of athletes, which I personally think is more valuable info as it can be interpreted as the direct results of the athletes' hard work and performance all these years. The visualization fails to emphasize this aspect, instead giving equal weight to off-the-field earnings, which I personally feel is sometimes more dependent on the popularity of the sport than the athlete himself.
