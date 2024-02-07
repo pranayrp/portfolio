@@ -4,6 +4,9 @@
 
 I chose the following data visualization from MakeoverMonday: [World's Highest-Paid Athletes](https://www.forbes.com/lists/athletes/?sh=19ed0755b7eb)
 
+<img width="940" alt="image" src="https://github.com/pranayrp/portfolio/assets/157341264/784b78b6-4b63-41db-bc68-40ab5a407a85">
+
+
 As someone studying about the entertainment and sports business, I am constantly fascinated by the numbers these mediums generate. I am also well aware of how powerful and impactful they are. Articles and numbers like these have the ability to impact young aspiring athletes if presented well, and considering how poorly the story was constructed and communicated by Forbes, I decided to choose this article & data visualization to redesign.
 
 —------------------------------------------------------------------------------------------------------------------
