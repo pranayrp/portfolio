@@ -1,6 +1,6 @@
 
 
-Step one: Choose a data visualization from MakeoverMonday.
+# Step One: Choose a data visualization from MakeoverMonday.
 
 I chose the following data visualization from MakeoverMonday<br>
 https://www.forbes.com/lists/athletes/?sh=19ed0755b7eb
@@ -9,7 +9,7 @@ As someone studying about the entertainment and sports business, I am constantly
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step Two: Critique the data visualization<br>
+# Step Two: Critique the data visualization<br>
 
 Having viewed the above data visualization, as suggested, I used Stephen Few's critique method (Data Visualization Effectiveness Profile) to critique it.
 
@@ -57,7 +57,7 @@ This method of evaluating data was extremely helpful. I prefer Stephen Few’s m
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step Three: Sketch Out a Solution<br>
+# Step Three: Sketch Out a Solution<br>
 
 Having critiqued it, I decided to begin to think of ways to redesign this visualization. The images below displays the trial and errors I made along the way before arriving at what I believe was the solution.
 
@@ -75,7 +75,7 @@ In the fifth graph, the earnings are on the y-axis. The names of players are on 
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step Four: Test the solution<br>
+# Step Four: Test the solution<br>
 
 Having believed I have arrived at the right redesign for the Forbes list, I decided it’s best I get some feedback from some of my peers too to understand what they think of my solution and if there’s more I should do. I asked two students at Carnegie Mellon University, one in her 20s and the other in her 30s.
 
@@ -96,7 +96,7 @@ What new inspiration arose?: I realized by adding two more graphs for on-the-fie
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step Five: Build your solution<br>
+# Step Five: Build your solution<br>
 
 I began working on Tableau. When I first started, I decided I should attempt to draw my 2nd graph to see if it would be equally informative as the one I decided on and if it would satisfy all the feedback given. <br>
 However, I soon realized the data and chart looked boring and it was definitely necessary to call out ‘On-the-field’ and ‘Off-the-field’ earnings. By adding images in the background, I assumed I could beautify the chart to make it more intriguing. I however realized as a result of adding images, I could not hover over each data point to learn about the player’s data. Tableau was hindering me from viewing the player’s data in the dashboard. After attempting every move in the manual book to figure a work around, I realized I should drop this and move on to the actual solution I prepared and gathered feedback for.
