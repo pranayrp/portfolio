@@ -72,7 +72,7 @@ In the third graph, I took the graph above and instead of the points, I filled i
 
 In the fourth graph to the bottom left, I decided to make a bar graph that split into two. The x-axis contains name of players and earnings on y-axis The shaded area would represent on-the-field and empty area would represent off-the-field. While overall the graph does display all the elements I intended to show, having the off-the-field above the on-the-field bar could create bias for off-the field earnings. I realized I have to make one small change and that I have the graph I need.<br>
 
-In the fifth graph, the earnings are on the y-axis. The names of players are on the x-axis. It’s easier to scroll and interpret data this way. By shading both ‘on-the-field’ and ‘off-the-field’ with equally neutral colors, I would ensure there’s no bias view. I put the shaded version of the bar graph as ‘on-the-field’ earnings because I intend for the audience to notice/gain an estimate of that number next, after the total earnings number. I realized I have arrived on the graph for the assignment.
+In the fifth graph, the earnings are on the y-axis. The names of players are on the x-axis. It’s easier to scroll and interpret data this way. By shading ‘on-the-field earnings’ with a color more eye-grabbing than ‘off-the-field earnings’, I can ensure it stands out to the reader. I intend for the audience to notice this value, after the total earnings number. I therefore realized I have arrived on the graph for the assignment.
 
 —------------------------------------------------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Student (in her late 30s) Feedback Session
 
 What worked?: She liked how simple and effective it was. She was glad I retained information about On-the-field and off-the-field earnings in the graph and made their presence stand out.<br>
 What didn’t work?: She suggested I add two more graphs called On-the-field earnings and Off-the-field earnings. Considering the top ten athletes would be different if the graphs are made, she believed these differences should be shown and detailed.<br>
-What questions came up?: Why this data visualization? To which I replied how it bothered about how the data focuses on Off-the-field too when in actuality, the article’s audience is aspiring young athletes and they should therefore be shown On-the-field instead of Off-the-field.<br>
+What questions came up?: She asked why I chose this data visualization. To which I replied how it bothered about how the data focuses on Off-the-field too when in actuality, the article’s audience is aspiring young athletes and they should therefore be shown On-the-field instead of Off-the-field.<br>
 What new inspiration arose?: I realized by adding two more graphs for on-the-field and off-the-field earnings each and placing them right after the total-earnings graph, I could ensure readers focus on the On-the-Field earnings more. There would be a better flow and a better purpose to the story.<br>
 
 As I reflect on the feedback of both my peers, I realized both individuals liked the story I intended to present through the visualization and wanted me to be more detailed and intricate with my visuals. One suggested I add context and the other suggested I add more graphs - both of them wanted my story to speak through the visuals.
