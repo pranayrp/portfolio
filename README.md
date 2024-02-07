@@ -10,6 +10,8 @@ I have always struggled with data visualizations. While communicating data, I fi
 # Portfolio
 You can find all my work below!
 
+[Telling Stories with Data Homework 3/4](/assignment34.md)
+
 [Telling Stories with Data Homework 2](/datavisualization.md)
 
 <iframe src="https://data.oecd.org/chart/7kqK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kqK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2007</a></iframe>
@@ -46,5 +48,3 @@ We notice the Govt Debt-to-GDP ratio of Japan has increased almost threefold in 
 The above chart displays the astronomical growth in Japan's Debt-to-GDP ratio over the years. While the Debt-to-GDP ratio of many countries has increased and decreased over the years, Japan's Debt-to-GDP ratio has always moved upwards. Unlike Greece or Italy, Japan's ratio has never once dipped.
 For an audience attempting to estimate the average Debt-to-GDP ratio in a particular year, instead of a line chart showcasing the average Debt-to-GDP ratio over the years, the boxplots above are more accurate and useful. This is because, Japan's Debt-to-GDP ratio being an outlier in most boxplots implies it would skew the average debt-to-gdp ratio if calculated. 
 Hovering over each boxplot would allow audience to learn the median Debt-to-GDP ratio of a year, an equally informative summary statistic. With the median, one learns that 50% of the countries have a Debt-to-GDP above the median value and 50% have a Debt-to-GDP ratio below the median value. This is useful in understanding the growth in Debt-to-GDP for countries throughout the years. 
-
-[Telling Stories with Data Homework 3/4](/assignment34.md)
