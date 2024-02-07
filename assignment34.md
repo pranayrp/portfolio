@@ -69,11 +69,12 @@ In the second graph, I wondered what if I just mapped the points of each players
 In the third graph, I took the graph above and instead of the points, I filled it with mini-pies, where each pie would communicate the ratio of On-the-field and Off-the field earnings. While the graph did feel more aesthetically pleasing and new to me, I realized it now tougher to interpret the original idea of the graph - the total earnings of these athletes. I also realized audiences might not be so interested in the ratio and might be more interested in the number. I also wondered if tableau functionality existed for this. I decided to brainstorm further.
 
 In the fourth graph to the bottom left, I decided to make a bar graph that split into two. The x-axis contains name of players and earnings on y-axis The shaded area would represent on-the-field and empty area would represent off-the-field. While overall the graph does display all the elements I intended to show, having the off-the-field above the on-the-field bar could create bias for off-the field earnings. I realized I have to make one small change and that I have the graph I need.<br>
+
 In the fifth graph, the earnings are on the y-axis. The names of players are on the x-axis. It’s easier to scroll and interpret data this way. By shading both ‘on-the-field’ and ‘off-the-field’ with equally neutral colors, I would ensure there’s no bias view. I put the shaded version of the bar graph as ‘on-the-field’ earnings because I intend for the audience to notice/gain an estimate of that number next, after the total earnings number. I realized I have arrived on the graph for the assignment.
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step four: Test the solution
+Step four: Test the solution<br>
 Having believed I have arrived at the right redesign for the Forbes list, I decided it’s best I get some feedback from some of my peers too to understand what they think of my solution and if there’s more I should do. I asked two students at Carnegie Mellon University, one in her 20s and the other in her 30s.
 
 Student (in her early 20s) Feedback Session
@@ -93,7 +94,7 @@ What new inspiration arose?: I realized by adding two more graphs for on-the-fie
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step five: Build your solution
+Step five: Build your solution<br>
 I began working on Tableau. When I first started, I decided I should attempt to draw my 2nd graph to see if it would be equally informative as the one I decided on and if it would satisfy all the feedback given. <br>
 However, I soon realized the data and chart looked boring and it was definitely necessary to call out ‘On-the-field’ and ‘Off-the-field’ earnings. By adding images in the background, I assumed I could beautify the chart to make it more intriguing. I however realized as a result of adding images, I could not hover over each data point to learn about the player’s data. Tableau was hindering me from viewing the player’s data in the dashboard. After attempting every move in the manual book to figure a work around, I realized I should drop this and move on to the actual solution I prepared and gathered feedback for.
 
