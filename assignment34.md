@@ -78,29 +78,23 @@ Having believed I have arrived at the right redesign for the Forbes list, I deci
 
 Student (in her early 20s) Feedback Session
 
-What worked?: She quickly understood what the graph was. She liked my redesign idea and believed I had transformed a fairly simple boring dataset into an engaging interesting one. 
-What didn’t work?: She suggested I add numbers beside each bar or at the end of the bar so that it would be simpler to understand the total earnings of each players. She also recommended that in the story I write, I should talk about certain outliers like Tom Brady, for whom the Off-the-field earnings are way higher than their on-the-field earnings and why it is like that. 
-What questions came up?: My thought process behind the coloring of the bars? To which I explained why i chose blue and orange. Both colors are usually not associated with much. If i used a shade of green or a shade of red, it could be misconstrued to be the ‘correct’ data. Therefore, I stuck to blue and orange.
+What worked?: She quickly understood what the graph was. She liked my redesign idea and believed I had transformed a fairly simple boring dataset into an engaging interesting one.<br>
+What didn’t work?: She suggested I add numbers beside each bar or at the end of the bar so that it would be simpler to understand the total earnings of each players. She also recommended that in the story I write, I should talk about certain outliers like Tom Brady, for whom the Off-the-field earnings are way higher than their on-the-field earnings and why it is like that.<br>
+What questions came up?: My thought process behind the coloring of the bars? To which I explained why i chose blue and orange. Both colors are usually not associated with much. If i used a shade of green or a shade of red, it could be misconstrued to be the ‘correct’ data. Therefore, I stuck to blue and orange.<br>
 What new inspiration arose?: With her suggestions about talking about outliers, I realized I have a better story to tell. One that could be used to tell the audience to also give equal importance to On-the-field earnings as they are to the Total earnings.
 
 
 Student (in her late 30s) Feedback Session
 
-What worked?: She liked how simple and effective it was. She was glad I retained information about On-the-field and off-the-field earnings in the graph and made their presence stand out.
-What didn’t work?: She suggested I add two more graphs called On-the-field earnings and Off-the-field earnings. Considering the top ten athletes would be different if the graphs are made, she believed these differences should be shown and detailed.
-What questions came up?: Why this data visualization? To which I replied how it bothered about how the data focuses on Off-the-field too when in actuality, the article’s audience is aspiring young athletes and they should therefore be shown On-the-field instead of Off-the-field.
-What new inspiration arose?: I realized by adding two more graphs for on-the-field and off-the-field earnings each and placing them right after the total-earnings graph, I could ensure readers focus on the On-the-Field earnings more. There would be a better flow and a better purpose to the story.
+What worked?: She liked how simple and effective it was. She was glad I retained information about On-the-field and off-the-field earnings in the graph and made their presence stand out.<br>
+What didn’t work?: She suggested I add two more graphs called On-the-field earnings and Off-the-field earnings. Considering the top ten athletes would be different if the graphs are made, she believed these differences should be shown and detailed.<br>
+What questions came up?: Why this data visualization? To which I replied how it bothered about how the data focuses on Off-the-field too when in actuality, the article’s audience is aspiring young athletes and they should therefore be shown On-the-field instead of Off-the-field.<br>
+What new inspiration arose?: I realized by adding two more graphs for on-the-field and off-the-field earnings each and placing them right after the total-earnings graph, I could ensure readers focus on the On-the-Field earnings more. There would be a better flow and a better purpose to the story.<br>
 
 —------------------------------------------------------------------------------------------------------------------
 
 Step five: Build your solution
-I began working on Tableau. When I first started, I decided I should attempt to draw my 2nd graph to see if it would be equally informative as the one I decided on and if it would satisfy all the feedback given.
-
-
-
-
-
-
+I began working on Tableau. When I first started, I decided I should attempt to draw my 2nd graph to see if it would be equally informative as the one I decided on and if it would satisfy all the feedback given. <br>
 However, I soon realized the data and chart looked boring and it was definitely necessary to call out ‘On-the-field’ and ‘Off-the-field’ earnings. By adding images in the background, I assumed I could beautify the chart to make it more intriguing. I however realized as a result of adding images, I could not hover over each data point to learn about the player’s data. Tableau was hindering me from viewing the player’s data in the dashboard. After attempting every move in the manual book to figure a work around, I realized I should drop this and move on to the actual solution I prepared and gathered feedback for.
 
 I began working on the finalized idea - bar graphs for Total Earnings, On the Field earnings and Off the field earnings. As displayed below, I made the bar graphs for each. I worked on improving their labels to ensure they were more readable.
