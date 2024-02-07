@@ -12,32 +12,32 @@ As someone studying about the entertainment and sports business, I am constantly
 Step two: Critique the data visualization<br>
 Having viewed the above data visualization, as suggested, I used Stephen Few's critique method (Data Visualization Effectiveness Profile) to critique it.
 
-Usefulness
-Rating: 2/10
+Usefulness<br>
+Rating: 2/10<br>
 I personally didn’t find the data that useful. I would have found it more useful had the story and visualization been about the richness and money one gets if they work hard enough in their field of sports. The table and the article should have focused particularly on the ‘On-the-Field’ earnings of athletes, numbers that are directly proportional to the hardwork and journey of the athletes. However, that isn’t the story communicated. I am informed about Off-the-Field earnings too. Information that speaks more about the popularity of the sport than about the individual athletes hard work. As a result, an athlete’s total earnings becomes less effective to me even if it’s a big number.
 
-Completeness
-Rating: 9/10
+Completeness<br>
+Rating: 9/10<br>
 All of the context has been provided. The article’s story is about the richest athletes in the world and the data visualization does dive into the numbers, and the breakdown of those numbers. There could have been another column called Date of Retirement so that viewers know why certain athletes like Tom Brady had abnormally higher off-the-field earnings than on-the-field earnings in 2023.
 
-Perceptibility
-Rating: 5/10
+Perceptibility<br>
+Rating: 5/10<br>
 While the visualization is simple to read and flows in descending order of Total earnings, On-the Field earnings and Off-the-Field earnings should have been restrained to the inner columns and Total earnings should be moved towards the edge. The human perceives columns to add up to the last column and in this case, with columns being switched up, it took time to perceive what was going on. There’s also a lot of scrolling involved, because of which one loses track of the data to be ingested.
 
-Truthfulness
-Rating: 10/10
+Truthfulness<br>
+Rating: 10/10<br>
 Considering it’s Forbes and having gone through the data, it’s validity and accuracy can be confirmed to be 100%. To Forbes credit, the list even values in Tom Brady’s earnings in the year 2023 even though he retired in Feb 2023. It was a value they could have missed and not included. But the team at Forbes were determined to ensure the list is as accurate as possible.
 
-Intuitiveness
-Rating: 8/10
+Intuitiveness<br>
+Rating: 8/10<br>
 Yes, the visualization is familiar and easily understood. It does take time to realize the actual data is just the ‘Names’ and ‘Total Earnings’ column. But once they are spotted, it’s fairly easy to understand the rest of the table.
 
-Aesthetics
-Rating: 1/10
+Aesthetics<br>
+Rating: 1/10<br>
 No thought was putting into visualizing data. The visualization is basic. More thought should have been put into the visualization of these humongous numbers. They are instead communicated in a rather casual manner in a simple column with no special font touchups either.
 
-Engagement
-Rating: 1/10
+Engagement<br>
+Rating: 1/10<br>
 I didn’t find the table engaging at all. I realized it’s just rows of data put together, and while I read the first few rows, I found myself just quickly scrolling through. They should have atleast bolded certain text, had a different font for different sports or given colors to different sports. They were many ways they could have retained engagement but they do not. They chose the simplest route possible - a route that so many are so familiar with that the data just does not stand out or isn’t paid enough attention to.
 
 Google Spreadsheet Responses
