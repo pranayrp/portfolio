@@ -1,4 +1,4 @@
-
+# Telling Stories with Data - Assignment 3/4 - Pranay Raj Peddareddy
 
 # Step One: Choose a data visualization from MakeoverMonday.
 
@@ -101,13 +101,15 @@ What new inspiration arose?: I realized by adding two more graphs for on-the-fie
 # Step Five: Build your solution<br>
 
 I began working on Tableau. When I first started, I decided I should attempt to draw my 2nd graph to see if it would be equally informative as the one I decided on and if it would satisfy all the feedback given. <br>
-However, I soon realized the data and chart looked boring and it was definitely necessary to call out ‘On-the-field’ and ‘Off-the-field’ earnings. By adding images in the background, I assumed I could beautify the chart to make it more intriguing. I however realized as a result of adding images, I could not hover over each data point to learn about the player’s data. Tableau was hindering me from viewing the player’s data in the dashboard. After attempting every move in the manual book to figure a work around, I realized I should drop this and move on to the actual solution I prepared and gathered feedback for.
+However, I soon realized the data and chart looked boring and it was definitely necessary to call out ‘On-the-field’ and ‘Off-the-field’ earnings. By adding images in the background, I assumed I could beautify the chart to make it more intriguing. I however realized as a result of adding images, I could not hover over each data point to learn about the player’s data. 
 
 <img width="667" alt="kk" src="https://github.com/pranayrp/portfolio/assets/157341264/3b5c30ed-345d-46e8-a042-7c3f42696763">
 
 <img width="475" alt="kkk" src="https://github.com/pranayrp/portfolio/assets/157341264/9d149ffa-9222-4c68-9441-bf371db39906">
 
-I began working on the finalized idea - bar graphs for Total Earnings, On the Field earnings and Off the field earnings. As displayed below, I made the bar graphs for each. I worked on improving their labels to ensure they were more readable.
+Tableau was hindering me from viewing the player’s data in the dashboard. After attempting every move in the manual book to figure a work around, I realized I should drop this and move on to the actual solution I prepared and gathered feedback for.
+
+I therefore began working on the finalized idea - bar graphs for Total Earnings, On the Field earnings and Off the field earnings. As displayed below, I made the bar graphs for each. I worked on improving their labels to ensure they were more readable.
 
 
 As I finished labeling and creating my bar graphs, I realized my colors play an important role in sending my message out. I therefore took more than an hour figuring which colors would be appropriate for On-the-Field and Off-the-field, such that the reader is more focused and inspired by On-the-Field earnings. Even in the Total Earnings chart, I strategically placed ‘On-the-Field’ earnings towards the increasing end for those reasons. I also realized it’s not possible to ignore the humongous contribution of Off-the-Field earnings. I therefore decided instead of completely dismissing ‘Off-the-field’ earnings, I should tell this story: 
