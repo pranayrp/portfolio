@@ -9,7 +9,7 @@ As someone studying about the entertainment and sports business, I am constantly
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step two: Critique the data visualization
+Step two: Critique the data visualization<br>
 Having viewed the above data visualization, as suggested, I used Stephen Few's critique method (Data Visualization Effectiveness Profile) to critique it.
 
 Usefulness
