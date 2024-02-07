@@ -3,7 +3,7 @@
 # Step One: Choose a data visualization from MakeoverMonday.
 
 I chose the following data visualization from MakeoverMonday<br>
-https://www.forbes.com/lists/athletes/?sh=19ed0755b7eb
+[World's Highest-Paid Athletes](https://www.forbes.com/lists/athletes/?sh=19ed0755b7eb)
 
 As someone studying about the entertainment and sports business, I am constantly fascinated by the numbers these mediums generate. I am also well aware of how powerful and impactful they are. Articles and numbers like these have the ability to impact young aspiring athletes if presented well, and considering how poorly the story was constructed and communicated by Forbes, I decided to choose this article & data visualization to redesign.
 
