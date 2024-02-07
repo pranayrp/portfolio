@@ -42,25 +42,23 @@ I didn’t find the table engaging at all. I realized it’s just rows of data p
 
 Google Spreadsheet Responses
 
-Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?
-
+Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently? <br>
 In terms of the story of the data and the article, the focus is not on the ‘on-the-field’ earnings of athletes, which I personally think is more valuable info as it can be interpreted as the direct results of the athletes' hard work and performance all these years. The visualization fails to emphasize this aspect, instead giving equal weight to off-the-field earnings, which I personally feel is sometimes more dependent on the popularity of the sport than the athlete himself.
 Perceptibility suffers due to the arrangement of columns, which can confuse viewers. Total Earnings should have been to the last column. Instead the columns that add up to make Total Earnings are placed to the right of it. The aesthetics and engagement of the visualization fall short. The simplicity of the design makes it unappealing and fails to capture attention effectively. The visualization is not effective the ‘bigness’ of the numbers these guys are making.
 Completeness is generally good. All data pertaining to Total Earnings has been given. Even though it is not the story I prefer, the fact that the visualization gives a breakdown of on-the-field and off-the-field earnings has to be praised. If not for that breakdown, considering they are athletes, I would have assumed all earnings were On-the-field earnings by default. Additional context, such as the date of retirement for certain athletes, to provide clarity on why their off-the-field earnings might be higher.
 Suggestions for improvement include incorporating visual elements like bold text, varied fonts for different sports, or color coding to make the data more visually engaging and easier to digest. In summary, while the data itself is comprehensive and accurate, the presentation lacks creativity and fails to engage the audience effectively. Enhancements in layout, design, and visualization techniques could significantly improve the overall impact and user experience.
 
-Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
-
+Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? <br>
 I believe the primary audience are the young adults who are aspiring to be as big as these athletes one day. The visualization is not effective. It focuses on On-the-Field and Off-the-Field. If it focused only on On-the-field earnings, it would have been successful in communicating that if they work hard on their field of sport, they can earn this much one day. But, by bringing Off-the-Field earnings, a factor which is variable on the athlete’s media presence, PR team and probably even their looks, the article is calculating a variable factor and associating it with their success. A message that can be confusing or misleading to young adults. The last thing young adults looking to become sportsmen should wonder is if they also need to go through PR training to become successful.
 
-Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
+Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.) <br>
 This method of evaluating data was extremely helpful. I prefer Stephen Few’s method over the Good Charts method. The Good Charts method was more about how I felt the moment I looked at the visualization and what I felt did and didn’t work. But Stephen Few's critique method is more detailed. It helped me focus on aspects to look at in the data visualization and critique it step-by-step. I believe my critique is much more comprehensive and elaborate as a result. Recommendations for improvement of visualization would be increased font for bigger numbers or bolding their text, color coding different sport categories, and changing the layout to a line graph or a bar graph
 
 —------------------------------------------------------------------------------------------------------------------
 
-Step three: sketch out a solution
-Having critiqued it, I decided to begin to think of ways to redesign this visualization. The images below displays the trial and errors I made along the way before arriving at what I believe was the solution.
+Step Three: Sketch Out a Solution<br>
 
+Having critiqued it, I decided to begin to think of ways to redesign this visualization. The images below displays the trial and errors I made along the way before arriving at what I believe was the solution.
 
 As shown in the image,
 
