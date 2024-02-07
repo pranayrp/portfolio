@@ -1,6 +1,6 @@
 
 
-Step one: Choose a data visualization from MakeoverMonday
+Step one: Choose a data visualization from MakeoverMonday.
 I chose the following data visualization from MakeoverMonday
 https://www.forbes.com/lists/athletes/?sh=19ed0755b7eb
 
