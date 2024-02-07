@@ -1,4 +1,4 @@
-# Telling Stories with Data - Assignment 3/4 - Pranay Raj Peddareddy
+# Telling Stories with Data - Assignment 3/4 - Pranay Raj Peddareddy (pranayrp)
 
 # Step One: Choose a data visualization from MakeoverMonday.
 
