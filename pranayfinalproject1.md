@@ -4,15 +4,37 @@ In 2023, Netflix for the time in years released something that noone hasn't sinc
 However, the data feels unorganized - consistency isn't maintained with naming titles, no way to understand if a title is a series or not if the word 'Season' isn't present. I personally felt Netflix dumped data out of obligation and they dumped it in a such a way, I believe they felt viewers wouldn't be interested in the data if it were presented/released this way.  
 
 My intention with this project is to inform companies performing entertainment analytics how Netflix's data can actually  be very informative if coupled with the right kind of data. The data I shall be combining are:
-1. Rotten Tomatoes Rating: The rating of each title will help one understand if the popularity of a show in today's world relies on critics rating or not
-2. Netflix Original (Y/N): During and post-pandemic, Netflix has relied increasing more on licensing than producing a show. The aim is to figure how many of these titles are Netlflix Originals and how many aren't
-3. Release Data: There's been a growing trend lately of old shows being discovered. For example, Suits. Seeing how many top-viewed shows were actually old and then adjoining their genre, could speak a lot about the audience.
+1. Rotten Tomatoes Rating: The rating of each title will help one understand if the popularity of a show in today's world relies on critics rating or not.
+2. Netflix Original (Y/N): This will help understand how reliant Netflix is on licensed shows than their Originals.
+3. Runtime: This will help understand if audiences (who are part of an era where short form content is thriving) are making decisions on what to watch based on runtime of the movie or length of series.
+To help further the above data and make more specific conclusions, I shall also be coupling data such as the genre and format of each film/series.
 
-Method and Medium:
-All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. 
-The report released by Netflix includes:  Title, Viewing Minutes, and Global availablily.
-For the  Rotten Tomatoes Rating, I have written a python script and scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.
-For Netflix Original or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances.
+# The Story
+As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it and why they have to now, considering the terms and results of the writers' and actor's strike. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. I shall then dive into how this data is powerful if you couple it with the right external data, which are (1)Rotten Tomatoes Ratings (2)Netflix Original (Yes/No) (3)Runtime.
+Now that I've outlined the areas I shall be talking about, I'll dive into the data and the rotten tomatoes ratings for each title. 
+
+Rotten Tomatoes Rating:-
+Setup: Do critics ratings impact viewership?. I shall then show the audience the ratings for the top 1000 titles in the Neflix release data
+Conflict: I would then begin showing observations - how the most watched show on Netflix 'The Night Agent' has only 74% while other shows have much lower rating. I shall also talk about certain outlier titles that have extremely low ratings yet have caught massive attention of viewers. 
+Resolution: I should end up with a conclusion that ratings do possibly push a viewer to watch a show.
+
+Netflix Original (Y/N):-
+Setup: During the pandemic, Netflix struggled to produce content due to quarantine laws. At this junction, the business depended heavily on licensing existing movies and tv series on the platform. Following a spike in viewership for this, the platform is said to have gradually moved towards licensing more movies and shows post-pandemic too. The reborn fandom for series like 'Manifest' and 'Suits' last year is a testament to what licensing has achieved for Netflix. The aim is to deduce how many of the titles seen in 2023 are Netflix Originals or not.
+Confliect: I would dive into how most of the top shows are Netflix Originals. However, among the 1000, majority are licensed shows. I would then dive into how it's impossible to produce a 1000 shows in a year and therefore licensing is inevitable. At this junction, I will then take a random sample of 10 movies and 10 series in the list and focus on whether the sum of viewing minutes is greater for Originals or for licensed in each of these samples
+Conclusion: Netflix's plan of licensing content should continue considering the current interests in licensed shows
+
+Runtime:-
+Setup: In the last decade, due to the rise of short form content, audience's attention span has decreased. As a result, not only do they expect a lot more in the short time they spend of content, they also are not willing to allocate too much time to a particular content. The aim is to notice any particular patterns in the runtime for movies/no. of episodes of each series.
+Conflict: While we do notice a trend where movies with shorter runtime and limited series were viewed more, we also notice many movies and series with much longer runtime/episodes having immense viewership. For these particular titles, I dissected them into the genres they belong to to understand if there is a pattern to  be understood here.
+Conclusion: Titles with huge viewership in the Netflix were noticed to have either shorter runtimes or came under a particular genre that seems to be the taste of most audience.
+
+# The data
+All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. The report released by Netflix includes:  Title, Viewing Minutes, and Global availablily.
+For the  Rotten Tomatoes Rating, I have written a python script that scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.
+For Netflix Originals or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances. Following which, I copy-pasted all Netflix Originals data from the Netflix wikipedia page. I copied the titles into an excel. I then wrote a python script that verifies if the titles in the released data are present in this excel. Following which, I mapped the data and created a Netflix Originals (Y/N) column. For anomalies that weren't detected, I manually googled the data for each title.
 For Release Date, I've used an pre-existing OMDb API that logged in every title's release data.
 
+# Method and medium
+
+I plan on using Tableau for my Final Project. I intend to start create a dashboard for each area of data I'm diving into to take audience through a story/journey.
 
