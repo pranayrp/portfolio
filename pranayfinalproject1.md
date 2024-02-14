@@ -11,7 +11,9 @@ To help further the above data and make more specific conclusions, I shall also 
 
 # The Story
 As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. <br /> 
+
 I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall even show a world map of where all the titles are from. <br /> 
+
 I shall then move on to explain the data I'll be combining with these titles- (1)Rotten Tomatoes Ratings (2)Netflix Original (Yes/No) (3)Runtime. I shall also be segmenting data into further columns like Movie/Tv Series and Genre to better understand motivations of viewers. In the end, I shall tell how inorder to analyze neutral unskewed data, I have only picked titles that are Globally available. 
 
 Rotten Tomatoes Rating:- <br /> 
@@ -41,13 +43,11 @@ Conclusion: Titles with huge viewership in the Netflix were noticed to have eith
 
 
 # The data
-All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. The report released by Netflix includes:  Title, Viewing Minutes, and Global availablily.
+All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. The report released by Netflix includes:  Title, Viewing Minutes, and Global availablily.<br/> 
 
-For the  Rotten Tomatoes Rating, I have written a python script that scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.
+For the  Rotten Tomatoes Rating, I have written a python script that scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.<br/> 
 
-For Netflix Originals or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances. Following which, I copy-pasted all Netflix Originals data from the Netflix wikipedia page. I copied the titles into an excel. I then wrote a python script that verifies if the titles in the released data are present in this excel. Following which, I mapped the data and created a Netflix Originals (Y/N) column. For anomalies that weren't detected, I manually googled the data for each title. For Runtime, I've used an pre-existing OMDb API that logged in every title's runtime.
-
-
+For Netflix Originals or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances. Following which, I copy-pasted all Netflix Originals data from the Netflix wikipedia page. I copied the titles into an excel. I then wrote a python script that verifies if the titles in the released data are present in this excel. Following which, I mapped the data and created a Netflix Originals (Y/N) column. For anomalies that weren't detected, I manually googled the data for each title. For Runtime, I've used an pre-existing OMDb API that logged in every title's runtime.<br/> 
 
 # Method and medium
 
