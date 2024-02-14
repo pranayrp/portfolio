@@ -1,4 +1,4 @@
-# High level summary: 
+# High Level Summary: 
 In 2023, Netflix for the time in years released something that none of the streaming companies have since the beginning of streaming: Data. Off the demands of the writers' and actors' strike, streaming platforms have increasingly become aware they need to release data. Netflix released a list of all watched titles (18000+) with their streaming minutes from the months of January-June 2023.
 
 However, the data feels unorganized - consistency isn't maintained with naming titles, no way to understand if a title is a series or not if the word 'Season' isn't present. I personally felt Netflix dumped data out of obligation and they dumped it in a such a way, I believe they felt viewers wouldn't be interested in the data if it were presented/released this way.  
@@ -49,7 +49,7 @@ For the  Rotten Tomatoes Rating, I have written a python script that scrapes goo
 
 For Netflix Originals or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances. Following which, I copy-pasted all Netflix Originals data from the Netflix wikipedia page. I copied the titles into an excel. I then wrote a python script that verifies if the titles in the released data are present in this excel. Following which, I mapped the data and created a Netflix Originals (Y/N) column. For anomalies that weren't detected, I manually googled the data for each title. For Runtime, I've used an pre-existing OMDb API that logged in every title's runtime.<br/> 
 
-# Method and medium
+# Method and Medium
 
 I plan on using Tableau for my Final Project. I intend to start create a dashboard for each area of data I'm diving into to take audience through a story/journey. I shall begin with a glimpse of the data Netflix released, then show my visualization of that data, a world map of where titles are from and then dive into the areas I've specified above.
 
