@@ -10,6 +10,8 @@ I have always struggled with data visualizations. While communicating data, I fi
 # Portfolio
 You can find all my work below!
 
+[Telling Stories with Data, Part 1: Final Project](/pranayfinalproject.md)
+
 [Telling Stories with Data Homework 3/4](/assignment34.md)
 
 [Telling Stories with Data Homework 2](/datavisualization.md)
