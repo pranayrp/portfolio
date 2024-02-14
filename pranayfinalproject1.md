@@ -1,3 +1,5 @@
+# Telling Stories with Data - Part I: Final Project - Pranay Raj (pranayrp)
+
 # High Level Summary: 
 In 2023, Netflix for the time in years released something that none of the streaming companies have since the beginning of streaming: Data. Off the demands of the writers' and actors' strike, streaming platforms have increasingly become aware they need to release data. Netflix released a list of all watched titles (18000+) with their streaming minutes from the months of January-June 2023.
 
