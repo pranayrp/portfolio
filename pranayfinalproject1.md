@@ -10,9 +10,9 @@ My audience for this project are companies performing entertainment analytics an
 To help further the above data and make more specific conclusions, I shall also be coupling data such as the genre and format of each film/series. <br /> 
 
 # The Story
-As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. <br /> 
+As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. <br/> 
 
-I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall even show a world map of where all the titles are from. <br /> 
+I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall even show a world map of where all the titles are from. <br/> 
 
 I shall then move on to explain the data I'll be combining with these titles- (1)Rotten Tomatoes Ratings (2)Netflix Original (Yes/No) (3)Runtime. I shall also be segmenting data into further columns like Movie/Tv Series and Genre to better understand motivations of viewers. In the end, I shall tell how inorder to analyze neutral unskewed data, I have only picked titles that are Globally available. 
 
