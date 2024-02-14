@@ -42,7 +42,7 @@ Conclusion: Titles with huge viewership in the Netflix were noticed to have eith
 <img width="590" alt="image" src="https://github.com/pranayrp/portfolio/assets/157341264/5851505a-8b2f-4b4d-bf12-6766f739cbd9">
 
 
-# The data
+# The Data
 All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. The report released by Netflix includes:  Title, Viewing Minutes, and Global availablily.<br/> 
 
 For the  Rotten Tomatoes Rating, I have written a python script that scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.<br/> 
