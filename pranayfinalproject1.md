@@ -1,21 +1,21 @@
 # High level summary: 
-In 2023, Netflix for the time in years released something that noone hasn't since the beginning of streaming: data. Off the demands of the writers' and actors' strike, streaming platforms have increasingly become aware they need to release data. Netflix released a list of all watched titles (18000+) with their streaming minutes from the months of January-June 2023.
+In 2023, Netflix for the time in years released something that none of the streaming companies have since the beginning of streaming: Data. Off the demands of the writers' and actors' strike, streaming platforms have increasingly become aware they need to release data. Netflix released a list of all watched titles (18000+) with their streaming minutes from the months of January-June 2023.
 
 However, the data feels unorganized - consistency isn't maintained with naming titles, no way to understand if a title is a series or not if the word 'Season' isn't present. I personally felt Netflix dumped data out of obligation and they dumped it in a such a way, I believe they felt viewers wouldn't be interested in the data if it were presented/released this way.  
 
-My audience for this project are companies performing entertainment analytics and my intention is to show Netflix's data can actually  be very informative if coupled with the right kind of data. The data I shall be combining are:
+My audience for this project are companies performing entertainment analytics and my intention is to show Netflix's data can actually be very informative if coupled with the right kind of data. The data I shall be combining are:
 1. Rotten Tomatoes Rating: The rating of each title will help one understand if the popularity of a show in today's world relies on critics rating or not.
 2. Netflix Original (Y/N): This will help understand how reliant Netflix is on licensed shows than their Originals.
 3. Runtime: This will help understand if audiences (who are part of an era where short form content is thriving) are making decisions on what to watch based on runtime of the movie or length of series.
 To help further the above data and make more specific conclusions, I shall also be coupling data such as the genre and format of each film/series.
 
 # The Story
-As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. 
-I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall then show a world map of where all the titles are from. 
+As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. 
+I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall even show a world map of where all the titles are from. 
 I shall then move on to explain the data I'll be combining with these titles- (1)Rotten Tomatoes Ratings (2)Netflix Original (Yes/No) (3)Runtime. I shall also be segmenting data into further columns like Movie/Tv Series and Genre to better understand motivations of viewers. In the end, I shall tell how inorder to analyze neutral unskewed data, I have only picked titles that are Globally available. 
 
 Rotten Tomatoes Rating:-
-Setup: Do critics ratings impact viewership?. I shall show audience the ratings for the top 500 titles in the Neflix release data
+Setup: Do critics ratings impact viewership? I shall show audience the ratings for the top 500 titles in the Neflix release data
 Conflict: I would then begin showing observations - how the most watched show on Netflix 'The Night Agent' has only 74% while other shows have much lower rating. I shall also talk about certain outlier titles that have extremely low ratings yet have caught massive attention of viewers. 
 Resolution: I shall define a good show to be one that has above 80% rotten tomatoes rating and therefore, I'm likely to conclude that ratings do possibly push a viewer to watch a show.
 
