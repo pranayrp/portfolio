@@ -3,9 +3,10 @@
 # High Level Summary
 In 2023, Netflix for the time in years released something that none of the streaming companies have since the beginning of streaming: Data. Off the demands of the writers' and actors' strike, streaming platforms have increasingly become aware they need to release data. Netflix released a list of all watched titles (18000+) with their streaming minutes from the months of January-June 2023.
 
+<img width="888" alt="image" src="https://github.com/pranayrp/portfolio/assets/157341264/e6ce737e-bdb0-4b7a-9254-a6a0d0861bfe">
+
 However, the data feels unorganized - consistency isn't maintained with naming titles, no way to understand if a title is a series or not if the word 'Season' isn't present. I personally felt Netflix dumped data out of obligation and they dumped it in a such a way, I believe they felt viewers wouldn't be interested in the data if it were presented/released this way.
 
-<img width="888" alt="image" src="https://github.com/pranayrp/portfolio/assets/157341264/e6ce737e-bdb0-4b7a-9254-a6a0d0861bfe">
 
 My audience for this project are companies performing entertainment analytics and my intention is to show Netflix's data can actually be very informative if coupled with the right kind of data. The data I shall be combining are:
 1. Rotten Tomatoes Rating: The rating of each title will help one understand if the popularity of a show in today's world relies on critics rating or not. <br /> 
