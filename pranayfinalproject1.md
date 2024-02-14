@@ -52,7 +52,7 @@ As I conclude my presentation, I shall show my audience one last look at the arr
 
 # The Data
 All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. Netflix's report can be found here: https://assets.ctfassets.net/4cd45et68cgf/1HyknFM84ISQpeua6TjM7A/97a0a393098937a8f29c9d29c48dbfa8/What_We_Watched_A_Netflix_Engagement_Report_2023Jan-Jun.xlsx </br>
-As seen, the report includes:  Title, Viewing Minutes, and Global Availablity.<br/> 
+As seen, the report includes:  Title, Viewing Minutes, Release Date, and Global Availablity.<br/> 
 
 For the  Rotten Tomatoes Rating, I have written a python script that scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.<br/> 
 
