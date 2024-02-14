@@ -11,7 +11,7 @@ My audience for this project are companies performing entertainment analytics an
 3. Runtime: This will help understand if audiences (who are part of an era where short form content is thriving) are making decisions on what to watch based on runtime of the movie or length of series. <br /> To interpret this data better and make more specific conclusions, I shall also be coupling data such as the genre and format of each film/series. <br /> 
 
 # The Story
-As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. <br/> 
+As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. Following that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. <br/> 
 
 I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall even show a world map of where all the titles are from. <br/> 
 
@@ -52,5 +52,5 @@ For Netflix Originals or not, I first researched if all 'Globally available' tit
 
 # Method and Medium
 
-I plan on using Tableau for my Final Project. I intend to start create a dashboard for each area of data I'm diving into to take audience through a story/journey. I shall begin with a glimpse of the data Netflix released, then show my visualization of that data, a world map of where titles are from and then dive into the areas I've specified above.
+I plan on using Tableau for my Final Project. I intend to create a dashboard for each area of data I'm diving into to take audience through a story/journey. I shall begin with a glimpse of the data Netflix released, then show my visualization of that data, a world map of where titles are from and then dive into the areas I've specified above.
 
