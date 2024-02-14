@@ -14,9 +14,9 @@ As I start off with my visualization, I'll begin talking about how Netflix relea
 I shall dive into how, for the sake of the presentation, I've picked the top 500 titles to better explain how informative this data can be. I'll display the way I've revisualized Netflix data for the top 500 titles. I shall even show a world map of where all the titles are from. 
 I shall then move on to explain the data I'll be combining with these titles- (1)Rotten Tomatoes Ratings (2)Netflix Original (Yes/No) (3)Runtime. I shall also be segmenting data into further columns like Movie/Tv Series and Genre to better understand motivations of viewers. In the end, I shall tell how inorder to analyze neutral unskewed data, I have only picked titles that are Globally available. 
 
-Rotten Tomatoes Rating:-
-Setup: Do critics ratings impact viewership? I shall show audience the ratings for the top 500 titles in the Neflix release data
-Conflict: I would then begin showing observations - how the most watched show on Netflix 'The Night Agent' has only 74% while other shows have much lower rating. I shall also talk about certain outlier titles that have extremely low ratings yet have caught massive attention of viewers. 
+Rotten Tomatoes Rating:- <br /> 
+Setup: Do critics ratings impact viewership? I shall show audience the ratings for the top 500 titles in the Neflix release data<br /> 
+Conflict: I would then begin showing observations - how the most watched show on Netflix 'The Night Agent' has only 74% while other shows have much lower rating. I shall also talk about certain outlier titles that have extremely low ratings yet have caught massive attention of viewers. <br /> 
 Resolution: I shall define a good show to be one that has above 80% rotten tomatoes rating and therefore, I'm likely to conclude that ratings do possibly push a viewer to watch a show.
 
 Netflix Original (Y/N):-
