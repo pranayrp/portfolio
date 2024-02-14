@@ -51,5 +51,5 @@ For Netflix Originals or not, I first researched if all 'Globally available' tit
 
 # Method and medium
 
-I plan on using Tableau for my Final Project. I intend to start create a dashboard for each area of data I'm diving into to take audience through a story/journey.
+I plan on using Tableau for my Final Project. I intend to start create a dashboard for each area of data I'm diving into to take audience through a story/journey. I shall begin with a glimpse of the data Netflix released, then show my visualization of that data, a world map of where titles are from and then dive into the areas I've specified above.
 
