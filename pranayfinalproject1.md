@@ -42,9 +42,10 @@ Conclusion: Titles with huge viewership in the Netflix were noticed to have eith
 
 # The data
 All above data is pubicly accessible. The herculian task is to bring data for each of these titles from seperate sources. The report released by Netflix includes:  Title, Viewing Minutes, and Global availablily.
+
 For the  Rotten Tomatoes Rating, I have written a python script that scrapes google homepages. Everytime someone googles a title, information regarding the title's rotten tomatoes review and rating shows up. The python tool I've build will input all data pertaining to Rotten Tomatoes into an Excel. In this Excel, I've written a formula to erase all unnecessary data, such that each cell only contians the RT rating.
-For Netflix Originals or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances. Following which, I copy-pasted all Netflix Originals data from the Netflix wikipedia page. I copied the titles into an excel. I then wrote a python script that verifies if the titles in the released data are present in this excel. Following which, I mapped the data and created a Netflix Originals (Y/N) column. For anomalies that weren't detected, I manually googled the data for each title.
-For Release Date, I've used an pre-existing OMDb API that logged in every title's release data.
+
+For Netflix Originals or not, I first researched if all 'Globally available' titles are Netflix Originals or not. I was informed sometimes Netflix Originals aren't globally available due to distribution and censorship hinderances. Following which, I copy-pasted all Netflix Originals data from the Netflix wikipedia page. I copied the titles into an excel. I then wrote a python script that verifies if the titles in the released data are present in this excel. Following which, I mapped the data and created a Netflix Originals (Y/N) column. For anomalies that weren't detected, I manually googled the data for each title. For Runtime, I've used an pre-existing OMDb API that logged in every title's runtime.
 
 
 
