@@ -18,17 +18,17 @@ I shall dive into how, for the sake of the presentation, I've picked the top 500
 
 I shall then move on to explain the data I'll be combining with these titles- (1)Rotten Tomatoes Ratings (2)Netflix Original (Yes/No) (3)Runtime. I shall also be segmenting data into further columns like Movie/Tv Series and Genre to better understand motivations of viewers. In the end, I shall tell how inorder to analyze neutral unskewed data, I have only picked titles that are Globally available. 
 
-Rotten Tomatoes Rating:- <br /> 
+**Rotten Tomatoes Rating**:- <br /> 
 Setup: Do critics ratings impact viewership? I shall show audience the ratings for the top 500 titles in the Neflix data<br /> 
 Conflict: I would then begin showing observations - how the most watched show on Netflix 'The Night Agent' has only 74% while other shows have much lower rating. I shall also talk about certain outlier titles that have extremely low ratings yet have caught massive attention of viewers. <br /> 
 Resolution: I shall define a good show to be one that has above 80% rotten tomatoes rating and therefore, I'm likely to conclude that ratings do possibly push a viewer to watch a show.
 
-Netflix Original (Y/N):- <br /> 
+**Netflix Original(Y/N)**:- <br /> 
 Setup: During the pandemic, Netflix struggled to produce content due to quarantine laws. At this junction, the business depended heavily on licensing existing movies and tv series on the platform. Following a spike in viewership for this, the platform is said to have gradually moved towards licensing more movies and shows post-pandemic too. The reborn fandom for series like 'Manifest' and 'Suits' last year is a testament to what licensing has achieved for Netflix. The aim is to deduce how many of the titles seen in 2023 are Netflix Originals or not. <br/> 
 Confliect: I would dive into how most of the top shows are Netflix Originals. However, among the 1000, majority are licensed shows. I would then dive into how it's impossible to produce a 1000 shows in a year and therefore licensing is inevitable. At this junction, I will then take a random sample of 10 movies and 10 series in the list and focus on whether the sum of viewing minutes is greater for Originals or for licensed in each of these samples. <br/> 
 Conclusion: Netflix's plan of licensing content should continue considering the current interests in licensed shows. <br/> 
 
-Runtime:- <br/> 
+**Runtime**:- <br/> 
 Setup: In the last decade, due to the rise of short form content, audience's attention span has decreased. As a result, not only do they expect a lot more in the short time they spend of content, they also are not willing to allocate too much time to a particular content. The aim is to notice any particular patterns in the runtime for movies/no. of episodes of each series. <br/> 
 Conflict: While we do notice a trend where movies with shorter runtime and limited series were viewed more, we also notice many movies and series with much longer runtime/episodes having immense viewership. For these particular titles, I dissected them into the genres they belong to to understand if there is a pattern to  be understood here. <br/> 
 Conclusion: Titles with huge viewership in the Netflix were noticed to have either shorter runtimes or came under a particular genre that seems to be the taste of most audience. <br/> 
