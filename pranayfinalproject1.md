@@ -32,6 +32,10 @@ Setup: In the last decade, due to the rise of short form content, audience's att
 Conflict: While we do notice a trend where movies with shorter runtime and limited series were viewed more, we also notice many movies and series with much longer runtime/episodes having immense viewership. For these particular titles, I dissected them into the genres they belong to to understand if there is a pattern to  be understood here. <br/> 
 Conclusion: Titles with huge viewership in the Netflix were noticed to have either shorter runtimes or came under a particular genre that seems to be the taste of most audience. <br/> 
 
+As I end my presentation, I shall show a final picture of all the charts I've displayed so far to conclude how valuable and informative Netflix's titles can be and ask them to look out for the data of Aug-Dec 2023
+
+As I conclude my presentation, I shall show my audience one last look at the array of charts I've presented, reminding them the wealth of valuable and informative insights Netflix's data can give us. I'll then encourage them to keep an eye out for the upcoming data from August to December 2023!
+
 # Initial Sketches and Code
 
 ![Adobe Scan 13 Feb 2024_1 (1)](https://github.com/pranayrp/portfolio/assets/157341264/7fef0fdd-f5b6-468c-814d-d776eeaf9227)
