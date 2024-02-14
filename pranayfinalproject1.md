@@ -8,8 +8,7 @@ However, the data feels unorganized - consistency isn't maintained with naming t
 My audience for this project are companies performing entertainment analytics and my intention is to show Netflix's data can actually be very informative if coupled with the right kind of data. The data I shall be combining are:
 1. Rotten Tomatoes Rating: The rating of each title will help one understand if the popularity of a show in today's world relies on critics rating or not. <br /> 
 2. Netflix Original (Y/N): This will help understand how reliant Netflix is on licensed shows than their Originals.
-3. Runtime: This will help understand if audiences (who are part of an era where short form content is thriving) are making decisions on what to watch based on runtime of the movie or length of series. <br /> 
-To help further the above data and make more specific conclusions, I shall also be coupling data such as the genre and format of each film/series. <br /> 
+3. Runtime: This will help understand if audiences (who are part of an era where short form content is thriving) are making decisions on what to watch based on runtime of the movie or length of series. <br /> To interpret this data better and make more specific conclusions, I shall also be coupling data such as the genre and format of each film/series. <br /> 
 
 # The Story
 As I start off with my visualization, I'll begin talking about how Netflix released data earlier this 2023, something none of the streaming companies have every done before. I shall go into probably why they didn't do it before and why they have to now, considering the terms and results of the writers' and actor's strike, and certain US policies. FOllowing that, I shall show them the data that Netflix released and how it seems unorganized and uninformative - as if they don't want the viewer to even scroll or pay much attention to it. <br/> 
