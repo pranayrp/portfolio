@@ -1,4 +1,7 @@
+Telling Stories with Data - Final Project II - Pranay Raj Peddareddy (pranayrp@andrew.cmu.edu)
+
 ## Wireframes / storyboards
+
 
 # User Research Protocol
 
@@ -10,8 +13,9 @@ I have picked 3 people to interview
 2. 26-year-old MSBA student @ Carnegie Mellon University:- The reason I approached this person for an interview was I wanted to ensure I was making the most out of the data I've collected. I want to exhaust all avenues to ensure I convey my message of how powerful Netflix's data can be.
 3. 31-year-old PhD grad who has zero interest/idea about entertainment industry:- I felt the best review would come from someone who isn't at all into this field. If they find this interesting, I believe I am in right path. Hence, I chose this person to interview.
 
-## Interview
+## The Interviews
 *answers have been summaried and written in first-person perspective for ease of reading*
+Note: The first and last question of each interview have been tailored according to the progress of the interview.
 
 36-year-old Writer/Director who pitches to streaming platforms
 
@@ -75,24 +79,8 @@ Having taken in all their feedback, the following are changes I plan on implemen
 3. I should group my data in two of my visualizations - Rotten Tomatoes visualization and Runtime for movies visualization. All individuals reported there isn't much difference in a few minutes or percentage, and I should therefore group the data.
 4. I should color code my entire presentation to Netflix's color code.
 
-## Interview script
-List the goals from your research, and the questions you intend to ask.
-
-Goal	Questions to Ask
-Interview findings
-Detail the findings from your interviews. Do not include PII. Capture specific insights where possible.
-
-Questions	Interview 1 (briefly describe)	Interview 2	Interview 3
-Question you asked here	Insightful feedback		
-Identified changes for Part III
-Document the changes you plan on implementing next week to address any issues identified.
-
-
-Research synthesis	Anticipated changes for Part III
-Findings or observations from interviews	Describe what, if any changes you anticipate making to address the observation.
-...add more rows as necessary	
-...include any final thoughts you have here.
-
-
 Moodboards / personas
 If you did this optional part, include details here. Otherwise remove this section
+
+Persona:
+A freelance filmmaker who is now currently working at Netflix as a creative executive: They would understand the core of this story, which is -> every once in a while, creativity needs analytics to thrive.
