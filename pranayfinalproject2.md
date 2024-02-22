@@ -1,8 +1,8 @@
 ## Wireframes / storyboards
 
-## User Research Protocol
+# User Research Protocol
 
-# Target Audience
+## Target Audience
 Initially, when I set off on this project, I intended for my visualization to speak to entertainment analytics companies. My intention was for them to realize the volumes of inferences this data could make about today's audience and thereby assist them in consulting for streaming platforms. However, as I dive deeper into this arena, I'm beginning to realize, my audience is also Netflix. Netflix, upon viewing my visualization, could realize coupling viewing hours with other data such as rotten tomatoes, runtime etc and releasing this information could also serve as a message to filmmakers. A messaage that conveys what genres today's audience is into, how many episodes are they willing to binge, should they focus on the plot or the characters. Such a message could empower filmmakers and help them make their Netflix pitches more aligned with the taste and mindset of today's audience. In the end, it is Netflix which benefits! 
 
 I have picked 3 people to interview
@@ -10,7 +10,7 @@ I have picked 3 people to interview
 2. 26-year-old Data Science student @ Carnegie Mellon University
 3. 31-year-old PhD grad who has zero interest/idea about entertainment industry
 
-# Interview
+## Interview
 *answers have been summaried and written in first-person perspective for ease of reading*
 
 36-year-old Writer/Director who pitches to streaming platforms
@@ -65,7 +65,7 @@ Q5. Considering runtime is the only attribute you haven't spoken about, did you 
 Not as much as the other attributes but as someone who watches limited series alot, it was interesting to learn that other audience, even those who probably watch a lot of content, are like me too - they don't want to watch something for too long. But again, maybe that's a testament of the times we live in, how people want to see somethnig that ends quicker than something that goes on forever.
 
 
-# Interview Findings
+## Interview Findings
 
 
 ## Interview script
