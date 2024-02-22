@@ -6,9 +6,9 @@
 Initially, when I set off on this project, I intended for my visualization to speak to entertainment analytics companies. My intention was for them to realize the volumes of inferences this data could make about today's audience and thereby assist them in consulting for streaming platforms. However, as I dive deeper into this arena, I'm beginning to realize, my audience is also Netflix. Netflix, upon viewing my visualization, could realize coupling viewing hours with other data such as rotten tomatoes, runtime etc and releasing this information could also serve as a message to filmmakers. A messaage that conveys what genres today's audience is into, how many episodes are they willing to binge, should they focus on the plot or the characters. Such a message could empower filmmakers and help them make their Netflix pitches more aligned with the taste and mindset of today's audience. In the end, it is Netflix which benefits! 
 
 I have picked 3 people to interview
-1. 36-year-old Writer/Director who pitches to streaming platforms
-2. 26-year-old Data Science student @ Carnegie Mellon University
-3. 31-year-old PhD grad who has zero interest/idea about entertainment industry
+1. 36-year-old Writer/Director who pitches to streaming platforms:- The reason I approached this person for an interview was I was curious if this data would actually be helpful to filmmakers pitching to streaming platforms. It can empower them and make them standout while pitching to the platform that they are aware of audience trends with Netflix products and have therefore configured their movie/series to align with that trend. In an industry that is just beginning to realize the power of data and analytics, I wanted to know what an insider would think of this. It is also often misread that tech is creating the art world. The intention is to enable artists, not surpress them. That's one thing I do wish my story speaks with my filmmaker acquaintance.
+2. 26-year-old MSBA student @ Carnegie Mellon University:- The reason I approached this person for an interview was I wanted to ensure I was making the most out of the data I've collected. I want to exhaust all avenues to ensure I convey my message of how powerful Netflix's data can be.
+3. 31-year-old PhD grad who has zero interest/idea about entertainment industry:- I felt the best review would come from someone who isn't at all into this field. If they find this interesting, I believe I am in right path. Hence, I chose this person to interview.
 
 ## Interview
 *answers have been summaried and written in first-person perspective for ease of reading*
@@ -65,8 +65,15 @@ Q5. Considering runtime is the only attribute you haven't spoken about, did you 
 Not as much as the other attributes but as someone who watches limited series alot, it was interesting to learn that other audience, even those who probably watch a lot of content, are like me too - they don't want to watch something for too long. But again, maybe that's a testament of the times we live in, how people want to see somethnig that ends quicker than something that goes on forever.
 
 
-## Interview Findings
+## Interview Findings and Changes I plan on implementing to your visualizations next week to address the issues identified:-
 
+All three individuals found my visualization informative and intriguing. It was interesting to see how each of them focused on different aspects of the story but was comforting to know, all of them found everything useful in some manner. Even the PhD student had some appreciation for an analysis that was data heavy and concentration in a field he wasn't interested in. I therefore now strongly think the general public would be intrigued by these kind of data. They might not have much use for it, unlike creators and entertainment analytics companies. But they definitely find it interesting.
+Having taken in all their feedback, the following are changes I plan on implementing to my visualization:-
+
+1. I should find the space and talk more about children show titles that are present in the list. I could get into the runtime of these episodes and the lengths of a season. I could try to find a pattern among them, example: what age group they cater to
+2. If it stays within the scope and intent of my story, I should consider diving into the metrics of titles that are 'Limited Series' too.
+3. I should group my data in two of my visualizations - Rotten Tomatoes visualization and Runtime for movies visualization. All individuals reported there isn't much difference in a few minutes or percentage, and I should therefore group the data.
+4. I should color code my entire presentation to Netflix's color code.
 
 ## Interview script
 List the goals from your research, and the questions you intend to ask.
