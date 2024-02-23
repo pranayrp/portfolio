@@ -74,13 +74,13 @@ A. Not as much as the other attributes but as someone who watches limited series
 
 ## Interview Findings and Changes I plan on implementing to your visualizations next week to address the issues identified:-
 
-All three individuals found my visualization informative and intriguing. It was interesting to see how each of them focused on different aspects of the story but was comforting to know, all of them found everything useful in some manner. Even the PhD student had some appreciation for an analysis that was data heavy and concentration in a field he wasn't interested in. I therefore now strongly think the general public would be intrigued by these kind of data. They might not have much use for it, unlike creators and entertainment analytics companies. But they definitely find it interesting.
+All three individuals found my visualization informative and intriguing. It was interesting to see how each of them focused on different aspects of the story but was comforting to know, all of them found everything useful in some manner. Even the PhD student had some appreciation for an analysis that was data heavy and concentration in a field he wasn't interested in. I therefore now strongly think the general public would be intrigued by these kind of data. They might not have much use for it, unlike creators and entertainment analytics companies, but they definitely find it interesting.
 Having taken in all their feedback, the following are changes I plan on implementing to my visualization:-
 
-1. I should find the space and talk more about children show titles that are present in the list. I could get into the runtime of these episodes and the lengths of a season. I could try to find a pattern among them, example: what age group they cater to
-2. If it stays within the scope and intent of my story, I should consider diving into the metrics of titles that are 'Limited Series' too.
-3. I should group my data in two of my visualizations - Rotten Tomatoes visualization and Runtime for movies visualization. All individuals reported there isn't much difference in a few minutes or percentage, and I should therefore group the data.
-4. I should color code my entire presentation to Netflix's color code.
+1. I noticed there are atleast some of my audience that are doing the calculation to understand where some of my titles have gone. I should therefore find the space and talk more about children show titles that are present in the list, so that I am accounting for everything. I could get into the runtime of these episodes and the lengths of a season. I could try to find a pattern among them, example: what age group they cater to
+2. Considering it stays within the scope and intent of my story, I should consider diving into the metrics of titles that are 'Limited Series' too. I could co-relate it with the story I intend to convey through runtime about audience's attention span. I could bring up limited series and talk about how today's audience want to see the finish line.
+3. I definitely should group my data in two of my visualizations - Rotten Tomatoes visualization and Runtime for movies visualization. All individuals reported there isn't much difference in a few minutes or percentage, and I should therefore group the data.
+4. I had already planned on doing this, but upon stronger feedback, I shall definitely be color coding the presentation with Netflix color codeos, for easy identifiablity and understanding for the viewer.
 
 # Moodboards & Personas
 
