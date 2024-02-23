@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-<script src="https://carnegiemellon.shorthandstories.com/netflix-engagement-report/embed.js"></script>
+https://carnegiemellon.shorthandstories.com/netflix-engagement-report/index.html
 
 Note: While I the flow shall mostly stay constant, I shall be making quite some changes to the color and look of the website.
 
