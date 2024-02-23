@@ -20,7 +20,7 @@ I have picked 3 people to interview
 *answers have been summaried and written in first-person perspective for ease of reading*
 Note: The first and last question of each interview have been tailored according to the progress of the interview.
 
-**36-year-old Writer/Director who pitches to streaming platforms**
+<u>**36-year-old Writer/Director who pitches to streaming platforms**</u>
 
 Q1. Do you believe something like this would help you pitch to streaming platforms better?
 Yes. While most filmmakers wish to say no, so as to stay true to their art. Not only is it tough to make a show for netflix, its even tougher to get a foot in the door. We rarely get chances to pitch. Therefore, when I do get a chance, having data such as this could help me push my show and give them an idea of the results it could produce. I might not write according to these trends and data. However, for the stories that I possess which already align with this data (ex. are 10 episodes and thriller), I would use this data to make my pitch more interesting and result oriented.
@@ -37,7 +37,7 @@ I personally wasn't interested in whether Netflix or licensed show. That's proba
 Q5. Considering critics rating is the only aspect you haven't brought up yet, did you find that part helpful or do you have any feedback.
 I don't have any feedback. Yes, I did find it helpful. It was motivating to know that data. It personally pushes me to make quality products. A lot of times critics are said to bring down films in our industry but this report is testament to the fact that they are merely reflective of audience voices - that even without them, the film would go down if it was a bad film. Therefore, it does make me view critics in new light and have newfound respect for them, and also motivates me to make a better product. 
 
-**26-year-old MSBA student @ Carnegie Mellon University**
+<u>**26-year-old MSBA student @ Carnegie Mellon University**</u>
 
 Q1. As a business analytics student, do you believe I have made the most use of the data or are there more avenues I should dive into?
 Considering there are titles in the list which you have informed me are infact children shows and that you plan on removing them, you should consider, on the other hand, making information about that too. The children's market is seeing a huge rise and a few child creators are richer than ever. You should talk about these children shows - get into what age groups they typically cater to and if there are patterns among them.
@@ -54,7 +54,7 @@ I didn't see myself learning much from the runtime of movies. I do watch movies 
 Q5. Considering Netflix Original is the only attribute you haven't spoken about, did you find that part insightful or do you have any feedback?
 I thought it was interesting. Considering these are titles among the top 1000, it was interesting to see how manny of them are licensed and originals. I was rather happy to see Suits in there. As someone who watched Suits back when it released, it was wholesome to see the show catch on fire when it released on Netflix. I remember wondering back then which all shows have caught fire past their release date. It was interesting all those titles in one place here.
 
-**31-year-old PhD grad who has zero interest/idea about entertainment industry**
+<u>**31-year-old PhD grad who has zero interest/idea about entertainment industry**</u>
 
 Q1. As someone that doesn't watch much content and isn't updated about the entertainment industry, what did you think of the story?
 You're right. I've barely watched most of the titles on even the top 10 list. I did find it interesting though. Because you're talking audience mindsets, for me it was more informative from a psychological perspective. I was thinking about attention spans when you began talking about runtime. I was thinking about how tough it must be come up with new ideas and execute them, that platforms are majorly residing to older released shows as content. Overall, it was interesting. Hit content always speaks more about the audience than it's content, and I think thats why I was interested in what you had to tell.
