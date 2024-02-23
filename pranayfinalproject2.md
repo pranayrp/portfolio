@@ -82,9 +82,7 @@ Having taken in all their feedback, the following are changes I plan on implemen
 3. I should group my data in two of my visualizations - Rotten Tomatoes visualization and Runtime for movies visualization. All individuals reported there isn't much difference in a few minutes or percentage, and I should therefore group the data.
 4. I should color code my entire presentation to Netflix's color code.
 
-Moodboards / personas
-
-If you did this optional part, include details here. Otherwise remove this section
+# Moodboards & Personas
 
 ![1_20240223_010605_0000](https://github.com/pranayrp/portfolio/assets/157341264/89858cae-d132-4e52-b644-ea11025c94d4)
 
