@@ -4,7 +4,7 @@
 
 https://carnegiemellon.shorthandstories.com/netflix-engagement-report/index.html
 
-Note: While I the flow shall mostly stay constant, I shall be making quite some changes to the color and look of the website.
+Note: While the flow shall mostly stay constant, I shall be making quite some changes to the color and look of the website.
 
 # User Research Protocol
 
