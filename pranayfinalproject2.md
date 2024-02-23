@@ -1,7 +1,10 @@
-Telling Stories with Data - Final Project II - Pranay Raj Peddareddy (pranayrp@andrew.cmu.edu)
+## Telling Stories with Data - Final Project II - Pranay Raj Peddareddy (pranayrp@andrew.cmu.edu)
 
-## Wireframes / storyboards
+# Wireframes / storyboards
 
+<script src="https://carnegiemellon.shorthandstories.com/netflix-engagement-report/embed.js"></script>
+
+Note: While I the flow shall mostly stay constant, I shall be making quite some changes to the color and look of the website.
 
 # User Research Protocol
 
@@ -80,7 +83,11 @@ Having taken in all their feedback, the following are changes I plan on implemen
 4. I should color code my entire presentation to Netflix's color code.
 
 Moodboards / personas
+
 If you did this optional part, include details here. Otherwise remove this section
 
+![1_20240223_010605_0000](https://github.com/pranayrp/portfolio/assets/157341264/89858cae-d132-4e52-b644-ea11025c94d4)
+
+
 Persona:
-A freelance filmmaker who is now currently working at Netflix as a creative executive: They would understand the core of this story, which is -> every once in a while, creativity needs analytics to thrive.
+30-35 year old retired freelance filmmaker who is now currently working at Netflix as a creative executive: They would understand the core of this story, which is -> every once in a while, creativity needs analytics to thrive.
