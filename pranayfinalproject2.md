@@ -34,7 +34,7 @@ A. You should consider grouping the data. It doesn't make much of a difference t
 Q4. Which part of the story did you not find that helpful? <br/>
 A. I personally wasn't interested in whether Netflix or licensed show. That's probably because I'm a filmmaker. A producer could find that information more useful.
 
-Q5. Considering critics rating is the only aspect you haven't brought up yet, did you find that part helpful or do you have any feedback. <br/>
+Q5. Considering critics rating is the only aspect you haven't brought up yet, did you find that part helpful or do you have any feedback? <br/>
 A. I don't have any feedback. Yes, I did find it helpful. It was motivating to know that data. It personally pushes me to make quality products. A lot of times critics are said to bring down films in our industry but this report is testament to the fact that they are merely reflective of audience voices - that even without them, the film would go down if it was a bad film. Therefore, it does make me view critics in new light and have newfound respect for them, and also motivates me to make a better product. 
 
 **26-year-old MSBA student @ Carnegie Mellon University**
