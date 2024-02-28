@@ -6,7 +6,7 @@ Hailing from India, I bring a rich background in strategy consulting and the Ind
 
 # What I hope to learn
 
-Years ago, I discovered my passion for writing. I found that I could express myself better through words. However, it wasn't too long before I realized the power of the visual medium in storytelling. And so, I picked up the camera. Despite my love for video in my personal endeavors as a short filmmaker, I still struggled to visualize data and relied more on words to convey information in my professional life. That's why I have decided to improve my data visualization skills. This portfolio documents my journey towards becoming better at telling stories through data.
+Years ago, I discovered my passion for writing. I found that I could express myself better through words. However, it wasn't too long before I realized the power of the visual medium in storytelling. And so, I picked up the camera. Despite my love for the visual medium in my personal endeavors as a short filmmaker, I still struggled to visualize data and relied more on words to convey information in my professional life. That's why I have decided to improve my data visualization skills. This portfolio documents my journey towards becoming better at telling stories through data.
 
 # Portfolio
 You can find all my work below!
