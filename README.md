@@ -10,15 +10,13 @@ Years ago, I discovered my passion for writing. I found that I could express mys
 # Portfolio
 You can find all my work below!
 
-**Final Project
+[Telling Stories with Data: Analyszing the Netflix Engagement Report Part II](/pranayfinalproject2.md)
 
-[Telling Stories with Data, Part 2: Final Project](/pranayfinalproject2.md)
+[Telling Stories with Data: Analyszing the Netflix Engagement Report Part I](/pranayfinalproject1.md)
 
-[Telling Stories with Data, Part 1: Final Project](/pranayfinalproject1.md)
+[Telling Stories with Data: Redesigning the Forbes Top 50 Highest Paid Athletes List](/assignment34.md)
 
-[Telling Stories with Data Homework 3/4](/assignment34.md)
-
-[Telling Stories with Data: Governement Debt-to-GDP Ratio over the years](/datavisualization.md)
+[Telling Stories with Data: Visualizing Governement Debt-to-GDP Ratio Over The Years](/datavisualization.md)
 
 <iframe src="https://data.oecd.org/chart/7kqK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kqK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2007</a></iframe>
 
