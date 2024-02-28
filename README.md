@@ -1,5 +1,4 @@
-# pranayrp-portfolio
-This is Pranay Raj and welcome to my portfolio!
+# This is Pranay Raj and welcome to my portfolio!
 
 # About me
 Hailing from India, I bring a rich background in strategy consulting and the Indian film industry. Throughout my consulting career, I implemented change management processes for three Fortune 500 companies, while my tenure in the film business as an associate producersaw me engaging with prominent streaming platforms such as Netflix, Amazon Prime, and Disney, among others. Currently enrolled in the Master of Entertainment Industry Management program at Carnegie Mellon University, I am gaining a comprehensive understanding of the analytical and business aspects of the global entertainment industry.  Drawing upon a well-established proficiency in interpersonal skills, agreements, and negotiations, I possess a profound enthusiasm for the acquisition, distribution, and licensing components of the entertainment industry. 
