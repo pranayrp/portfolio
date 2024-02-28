@@ -1,14 +1,17 @@
 # pranayrp-portfolio
-This is Pranay Raj and this is my public portfolio for Telling Stories with Data at CMU
+This is Pranay Raj and welcome to my portfolio!
 
 # About me
-Currently enrolled in the Master of Entertainment Industry Management program at Carnegie Mellon University, I am gaining a comprehensive understanding of the analytical and business aspects of the global entertainment industry. My background includes hands-on experience in both the creative and business facets of the film and television fields. Drawing upon a well-established proficiency in interpersonal skills, agreements, and negotiations, I possess a profound enthusiasm for the acquisition, distribution, and licensing components of the entertainment industry. 
+Hailing from India, I bring a rich background in strategy consulting and the Indian film industry. Throughout my consulting career, I implemented change management processes for three Fortune 500 companies, while my tenure in the film business as an associate producersaw me engaging with prominent streaming platforms such as Netflix, Amazon Prime, and Disney, among others. Currently enrolled in the Master of Entertainment Industry Management program at Carnegie Mellon University, I am gaining a comprehensive understanding of the analytical and business aspects of the global entertainment industry.  Drawing upon a well-established proficiency in interpersonal skills, agreements, and negotiations, I possess a profound enthusiasm for the acquisition, distribution, and licensing components of the entertainment industry. 
 
 # What I hope to learn
-I have always struggled with data visualizations. While communicating data, I find words much easier to use than graphs and charts. However, I am well aware that images are more effective and easily understandable. I therefore hope to get better at visualizing and communicating data through visual means.
+
+Years ago, I discovered my passion for writing. I found that I could express myself better through words. However, it wasn't too long before I realized the power of the visual medium in storytelling. And so, I picked up the camera. Despite my love for video in my personal endeavors as a short filmmaker, I still struggled to visualize data and relied more on words to convey information in my professional life. That's why I have decided to improve my data visualization skills. This portfolio documents my journey towards becoming better at telling stories through data.
 
 # Portfolio
 You can find all my work below!
+
+**Final Project
 
 [Telling Stories with Data, Part 2: Final Project](/pranayfinalproject2.md)
 
@@ -19,7 +22,6 @@ You can find all my work below!
 [Telling Stories with Data Homework 2](/datavisualization.md)
 
 <iframe src="https://data.oecd.org/chart/7kqK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kqK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2007</a></iframe>
-
 
 The above barchart displays the Debt-to-GDP ratios for countries in 2007. While Estonia had the lowest Debt-to-GDP ratio, Japan had the highest Debt-to-GDP ratio. Japan's ratio is almost 1.5 times greater than Greece, the country with the second highest Debt-to-GDP ratio.
 
@@ -47,7 +49,6 @@ We notice the Govt Debt-to-GDP ratio of Japan has increased almost threefold in 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
 
 The above chart displays the astronomical growth in Japan's Debt-to-GDP ratio over the years. While the Debt-to-GDP ratio of many countries has increased and decreased over the years, Japan's Debt-to-GDP ratio has always moved upwards. Unlike Greece or Italy, Japan's ratio has never once dipped.
 For an audience attempting to estimate the average Debt-to-GDP ratio in a particular year, instead of a line chart showcasing the average Debt-to-GDP ratio over the years, the boxplots above are more accurate and useful. This is because, Japan's Debt-to-GDP ratio being an outlier in most boxplots implies it would skew the average debt-to-gdp ratio if calculated. 
