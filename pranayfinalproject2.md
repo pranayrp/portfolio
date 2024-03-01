@@ -86,6 +86,9 @@ Having taken in all their feedback, the following are changes I plan on implemen
 
 ![1_20240223_010605_0000](https://github.com/pranayrp/portfolio/assets/157341264/89858cae-d132-4e52-b644-ea11025c94d4)
 
-
 Persona:
 30-35 year old retired freelance filmmaker who is now currently working at Netflix as a creative executive: They would understand the core of this story, which is -> every once in a while, creativity needs analytics to thrive.
+
+# Next
+
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part I](/pranayfinalproject3.md)
