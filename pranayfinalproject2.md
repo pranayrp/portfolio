@@ -1,5 +1,9 @@
 ## Telling Stories with Data - Final Project II - Pranay Raj Peddareddy (pranayrp@andrew.cmu.edu)
 
+# Recap
+
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part I](/pranayfinalproject1.md)
+
 # Wireframes / storyboards
 
 https://carnegiemellon.shorthandstories.com/netflix-engagement-report/index.html
@@ -89,6 +93,6 @@ Having taken in all their feedback, the following are changes I plan on implemen
 Persona:
 30-35 year old retired freelance filmmaker who is now currently working at Netflix as a creative executive: They would understand the core of this story, which is -> every once in a while, creativity needs analytics to thrive.
 
-# Next!
+# Coming Next
 
 [Telling Stories with Data: Analyzing the Netflix Engagement Report Part III](/pranayfinalproject3.md)
