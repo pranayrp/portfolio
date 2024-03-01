@@ -63,5 +63,5 @@ For Netflix Originals or not, I first researched if all 'Globally available' tit
 I plan on using Tableau for my Final Project. I intend to create a dashboard for each area of data I'm diving into to take audience through a story/journey. I shall begin with a glimpse of the data Netflix released, then show my visualization of that data, a world map of where titles are from and then dive into the areas I've specified above.
 
 # Coming Next
-[Telling Stories with Data: Analyzing the Netflix Engagement Report Part II](/pranayfinalproject2.md)
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part II](/pranayfinalproject2.md) <br/>
 [Telling Stories with Data: Analyzing the Netflix Engagement Report Part III](/pranayfinalproject3.md)
