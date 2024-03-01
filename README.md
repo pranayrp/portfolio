@@ -11,9 +11,9 @@ Despite my love for the visual medium in my personal endeavors, I struggled with
 # Portfolio
 You can find all my work below!
 
-[Telling Stories with Data: Analyszing the Netflix Engagement Report Part II](/pranayfinalproject2.md)
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part II](/pranayfinalproject2.md)
 
-[Telling Stories with Data: Analyszing the Netflix Engagement Report Part I](/pranayfinalproject1.md)
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part I](/pranayfinalproject1.md)
 
 [Telling Stories with Data: Redesigning the Forbes Top 50 Highest Paid Athletes List](/assignment34.md)
 
