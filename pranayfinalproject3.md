@@ -27,8 +27,14 @@ https://carnegiemellon.shorthandstories.com/netflix-engagement-report/index.html
 
 ## Links and References
 Data Referenced: Netflix Engagement Report 2023 (https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)</br>
-All 3 images used were free to use under the Unsplash License.
+All 3 images used in Part III were free to use under the Unsplash License.
+Moodboard image in Part I was created on Canvas.
+Image of Engagement Report excel used in Part I: Netflix Engagement Report 2023 (https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)</br>
 
+# Part I and Part II
+
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part I](/pranayfinalproject1.md)
+[Telling Stories with Data: Analyzing the Netflix Engagement Report Part II](/pranayfinalproject2.md)
 
 
 
