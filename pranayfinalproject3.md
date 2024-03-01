@@ -1,4 +1,6 @@
-## Final Project Journey Summary
+## Telling Stories with Data - Final Project III
+
+## A Summary Of My Journey
 
 **Figuring out my Audience**</br>
 When I initally began the project (in Final Project 1), I believed my audiences were entertainment analytics companies. As I began working more and more, I believed my audiences were entertainment analytics companies and filmmakers. However, I was still sure there was something I was missing. For my user research survey I performed in Part II, I ended up interviewing my filmmaker friend from back home. I found it interesting how she mentioned this data would help her while pitching to platforms. That's when it struck me about who my audience realy were - Filmmakers and Netflix executives. 
